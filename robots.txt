@@ -1,0 +1,5 @@
+# https://referrals.example.com/robots.txt
+# 只有放在網域根目錄才會被爬蟲讀取；GitHub Pages 的專案網址（子路徑）形態無效（規格 2.8）。
+# 非 production 建置（DEPLOY_ENV 不是 production）：不讓任何爬蟲抓取（規格 7.2）。
+User-agent: *
+Disallow: /
