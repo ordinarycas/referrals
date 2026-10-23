@@ -8,7 +8,9 @@
 
 - [Binance](https://ordinarycas.github.io/referrals/referral/binance/): 邀請碼 37477679；資料截至 2026-10-19
 - [Binance USDC 任務獎勵](https://ordinarycas.github.io/referrals/referral/binance-usdc/): 邀請碼 GRO_28502_SZ300；資料截至 2026-10-23
+- [群益期貨 KeensPie](https://ordinarycas.github.io/referrals/referral/capital-futures/): 邀請碼 KWTUYUY；資料截至 2026-10-23
 - [ether.fi Cash Card](https://ordinarycas.github.io/referrals/referral/etherfi-cash/): 邀請碼 32c0a418；資料截至 2026-10-23
+- [TradingView](https://ordinarycas.github.io/referrals/referral/tradingview/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
 
 ## 站內說明
 
@@ -34,3 +36,4 @@
 - [Binance](https://ordinarycas.github.io/referrals/en/referral/binance/): English
 - [Binance USDC 任務獎勵](https://ordinarycas.github.io/referrals/en/referral/binance-usdc/): English
 - [ether.fi Cash Card](https://ordinarycas.github.io/referrals/en/referral/etherfi-cash/): English
+- [TradingView](https://ordinarycas.github.io/referrals/en/referral/tradingview/): English

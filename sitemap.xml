@@ -133,6 +133,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/binance-usdc/"/>
   </url>
   <url>
+    <loc>https://ordinarycas.github.io/referrals/referral/capital-futures/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/capital-futures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/capital-futures/"/>
+  </url>
+  <url>
     <loc>https://ordinarycas.github.io/referrals/referral/etherfi-cash/</loc>
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/etherfi-cash/"/>
@@ -145,5 +151,19 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/etherfi-cash/"/>
+  </url>
+  <url>
+    <loc>https://ordinarycas.github.io/referrals/referral/tradingview/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
+  </url>
+  <url>
+    <loc>https://ordinarycas.github.io/referrals/en/referral/tradingview/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
   </url>
 </urlset>
