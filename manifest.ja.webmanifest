@@ -1,0 +1,35 @@
+{
+  "id": "/ja/",
+  "name": "Referrals Source",
+  "short_name": "Referrals Source",
+  "description": "取引所・ウォレットなど各種サービスの紹介コード（招待コード）と公式の登録リンクをまとめました。繁体字中国語・英語・日本語・韓国語に対応し、各項目に最終確認日を表示しています。",
+  "lang": "ja",
+  "start_url": "/ja/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf9f5",
+  "theme_color": "#14337a",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

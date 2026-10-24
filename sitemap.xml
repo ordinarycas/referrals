@@ -1,169 +1,519 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ordinarycas.github.io/referrals/</loc>
+    <loc>https://refcode.cc/</loc>
     <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/en/</loc>
+    <loc>https://refcode.cc/en/</loc>
     <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/ja/</loc>
+    <loc>https://refcode.cc/ja/</loc>
     <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/ko/</loc>
+    <loc>https://refcode.cc/ko/</loc>
     <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/about/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/about/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/about/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/about/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/about/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/about/"/>
+    <loc>https://refcode.cc/about/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/about/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/en/about/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/about/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/about/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/about/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/about/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/about/"/>
+    <loc>https://refcode.cc/en/about/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/about/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/ja/about/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/about/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/about/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/about/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/about/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/about/"/>
+    <loc>https://refcode.cc/ja/about/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/about/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/ko/about/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/about/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/about/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/about/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/about/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/about/"/>
+    <loc>https://refcode.cc/ko/about/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/about/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/accessibility/</loc>
+    <loc>https://refcode.cc/accessibility/</loc>
     <lastmod>2026-10-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/accessibility/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/en/accessibility/</loc>
+    <loc>https://refcode.cc/en/accessibility/</loc>
     <lastmod>2026-10-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/accessibility/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/ja/accessibility/</loc>
+    <loc>https://refcode.cc/ja/accessibility/</loc>
     <lastmod>2026-10-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/accessibility/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/ko/accessibility/</loc>
+    <loc>https://refcode.cc/ko/accessibility/</loc>
     <lastmod>2026-10-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ordinarycas.github.io/referrals/ja/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://ordinarycas.github.io/referrals/ko/accessibility/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/accessibility/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/referral/binance/</loc>
+    <loc>https://refcode.cc/referral/amway-amcard/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/amway-amcard/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/amway-amcard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/amway-amcard/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/amway-amcard/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/amway-amcard/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/amway-amcard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/amway-amcard/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/binance/</loc>
     <lastmod>2026-10-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/binance/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/binance/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/binance/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/binance/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/binance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/binance/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/en/referral/binance/</loc>
+    <loc>https://refcode.cc/en/referral/binance/</loc>
     <lastmod>2026-10-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/binance/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/binance/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/binance/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/binance/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/binance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/binance/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/referral/binance-usdc/</loc>
+    <loc>https://refcode.cc/referral/binance-usdc/</loc>
     <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/binance-usdc/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/binance-usdc/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/binance-usdc/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/binance-usdc/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/binance-usdc/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/binance-usdc/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/en/referral/binance-usdc/</loc>
+    <loc>https://refcode.cc/en/referral/binance-usdc/</loc>
     <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/binance-usdc/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/binance-usdc/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/binance-usdc/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/binance-usdc/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/binance-usdc/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/binance-usdc/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/referral/capital-futures/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/capital-futures/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/capital-futures/"/>
+    <loc>https://refcode.cc/referral/bitfinex/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/bitfinex/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/bitfinex/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/bitfinex/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/referral/etherfi-cash/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/etherfi-cash/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/etherfi-cash/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/etherfi-cash/"/>
+    <loc>https://refcode.cc/en/referral/bitfinex/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/bitfinex/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/bitfinex/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/bitfinex/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/en/referral/etherfi-cash/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/etherfi-cash/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/etherfi-cash/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/etherfi-cash/"/>
+    <loc>https://refcode.cc/referral/bitopro/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/bitopro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/bitopro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/bitopro/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/referral/tradingview/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/tradingview/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
+    <loc>https://refcode.cc/en/referral/bitopro/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/bitopro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/bitopro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/bitopro/"/>
   </url>
   <url>
-    <loc>https://ordinarycas.github.io/referrals/en/referral/tradingview/</loc>
+    <loc>https://refcode.cc/referral/bybit/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/bybit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/bybit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/bybit/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/bybit/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/bybit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/bybit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/bybit/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/capital-futures/</loc>
     <lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ordinarycas.github.io/referrals/en/referral/tradingview/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ordinarycas.github.io/referrals/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/capital-futures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/capital-futures/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/cathay-cube/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/cathay-cube/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/cathay-cube/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/cathay-cube/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/cathay-cube/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/cathay-cube/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/cathay-cube/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/cathay-cube/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/cathay-rewards/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/cathay-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/cathay-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/cathay-rewards/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/cathay-rewards/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/cathay-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/cathay-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/cathay-rewards/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/crypto-com/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/crypto-com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/crypto-com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/crypto-com/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/crypto-com/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/crypto-com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/crypto-com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/crypto-com/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/etherfi-cash/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/etherfi-cash/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/etherfi-cash/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/etherfi-cash/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/etherfi-cash/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/etherfi-cash/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/etherfi-cash/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/etherfi-cash/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/foodpanda/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/foodpanda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/foodpanda/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/foodpanda/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/foodpanda/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/foodpanda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/foodpanda/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/foodpanda/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/funnow/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/funnow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/funnow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/funnow/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/funnow/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/funnow/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/funnow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/funnow/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/gogoro-goshare/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/gogoro-goshare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/gogoro-goshare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/gogoro-goshare/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/gogoro-goshare/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/gogoro-goshare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/gogoro-goshare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/gogoro-goshare/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/hosting-com/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/hosting-com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/hosting-com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/hosting-com/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/hosting-com/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/hosting-com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/hosting-com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/hosting-com/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/icash-pay/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/icash-pay/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/icash-pay/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/icash-pay/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/icash-pay/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/icash-pay/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/icash-pay/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/icash-pay/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/klook/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/klook/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/klook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/klook/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/klook/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/klook/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/klook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/klook/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/max/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/max/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/max/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/max/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/max/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/max/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/max/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/max/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/ocard/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/ocard/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/ocard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/ocard/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/ocard/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/ocard/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/ocard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/ocard/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/okx/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/okx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/okx/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/okx/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/okx/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/okx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/okx/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/okx/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/pklot/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pklot/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pklot/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pklot/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/pklot/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pklot/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pklot/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pklot/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/pluspay/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pluspay/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pluspay/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pluspay/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/pluspay/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pluspay/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pluspay/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pluspay/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/pxpay/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pxpay/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pxpay/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pxpay/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/pxpay/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pxpay/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pxpay/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pxpay/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/qsquare/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/qsquare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/qsquare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/qsquare/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/qsquare/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/qsquare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/qsquare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/qsquare/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/shopback/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/shopback/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/shopback/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/shopback/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/shopback/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/shopback/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/shopback/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/shopback/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/tradingview/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/tradingview/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/tradingview/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/tradingview/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/tradingview/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/uber-eats/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/uber-eats/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/uber-eats/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/uber-eats/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/uber-eats/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/uber-eats/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/uber-eats/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/uber-eats/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/uniopen/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/uniopen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/uniopen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/uniopen/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/uniopen/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/uniopen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/uniopen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/uniopen/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/voicetube/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/voicetube/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/voicetube/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/voicetube/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/voicetube/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/voicetube/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/voicetube/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/voicetube/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/watsons/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/watsons/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/watsons/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/watsons/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/watsons/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/watsons/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/watsons/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/watsons/"/>
   </url>
 </urlset>

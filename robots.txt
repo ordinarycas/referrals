@@ -1,0 +1,17 @@
+# https://refcode.cc/robots.txt
+# 只有放在網域根目錄才會被爬蟲讀取；GitHub Pages 的專案網址（子路徑）形態無效（規格 2.8）。
+# 政策依據規格 7.6：預設允許所有爬蟲，含 AI 搜尋與使用者代理。
+User-agent: *
+Allow: /
+
+# 模型訓練爬蟲：預設 Allow（待決事項 Q3）。若決定不被用於訓練，把 src/lib/seo.ts 的 BLOCK_TRAINING_CRAWLERS 改成 true。
+# User-agent: GPTBot
+# Disallow: /
+# User-agent: ClaudeBot
+# Disallow: /
+# User-agent: Google-Extended
+# Disallow: /
+# User-agent: Applebot-Extended
+# Disallow: /
+
+Sitemap: https://refcode.cc/sitemap.xml

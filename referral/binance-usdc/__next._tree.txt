@@ -1,10 +1,10 @@
-:HL["/referrals/_next/static/chunks/0utrncy8ldptu.css","style"]
-:HL["/referrals/_next/static/chunks/2fv8ao8gh4_qb.css","style"]
+:HL["/_next/static/chunks/0utrncy8ldptu.css","style"]
+:HL["/_next/static/chunks/30wcvfzf89t9r.css","style"]
 :HC["/",""]
-:HL["/referrals/_next/static/chunks/0yieb5iubovm1.css","style"]
-:HL["/referrals/_next/static/chunks/1twwxkyxgcumy.css","style"]
+:HL["/_next/static/chunks/060x8u6s-m6pn.css","style"]
+:HL["/_next/static/chunks/0fz_z9ogwszxo.css","style"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"binance-usdc","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"referral","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":"(default)","h":131120,"c":"$Q2"}]]
-0:{"b":"6yxo6ggo56EZKhiENHtru","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"83rmCpx4mzYs3I-iohKNf","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
