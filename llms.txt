@@ -1,12 +1,13 @@
 # Referrals Source
 
-> 彙整交易所、錢包與各類服務平台的邀請碼（推薦碼）與官方註冊連結，支援繁中、英文、日文、韓文，每筆資料皆標示最後驗證日期。本站含推薦連結，您註冊後本站可能獲得回饋。
+> 彙整交易所、錢包與各類服務平台的邀請碼（推薦碼）與官方註冊連結，支援繁中、英文、日文、韓文，每筆資料皆標示連結網域與更新時間，註冊前可先比對。本站含推薦連結，您註冊後本站可能獲得回饋。
 
-資料更新日：2026-10-23。
+資料更新日：2026-10-24。
 
 ## 平台
 
 - [安麗 Am-Card](https://refcode.cc/referral/amway-amcard/): 邀請碼 8987666；資料截至 2026-10-23
+- [BIGO LIVE](https://refcode.cc/referral/bigo-live/): 邀請碼 10680329250；資料截至 2026-10-24
 - [Binance](https://refcode.cc/referral/binance/): 邀請碼 37477679；資料截至 2026-10-19
 - [Binance USDC 任務獎勵](https://refcode.cc/referral/binance-usdc/): 邀請碼 GRO_28502_SZ300；資料截至 2026-10-23
 - [Bitfinex](https://refcode.cc/referral/bitfinex/): 邀請碼 1dwvQlwCN；資料截至 2026-10-19
@@ -15,31 +16,48 @@
 - [群益期貨 KeensPie](https://refcode.cc/referral/capital-futures/): 邀請碼 KWTUYUY；資料截至 2026-10-23
 - [國泰世華 CUBE App](https://refcode.cc/referral/cathay-cube/): 邀請碼 H21AU；資料截至 2026-10-19
 - [國泰優惠](https://refcode.cc/referral/cathay-rewards/): 邀請碼 BYURAC36；資料截至 2026-10-19
+- [CHARGESPOT 共享行動電源](https://refcode.cc/referral/chargespot/): 邀請碼 FRD6D21F79B；資料截至 2026-10-24
+- [CITYLINK](https://refcode.cc/referral/citylink/): 邀請碼 6UID；資料截至 2026-10-24
+- [股市爆料同學會 CMoney](https://refcode.cc/referral/cmoney/): 邀請碼 f65ra1；資料截至 2026-10-24
+- [康是美 Cosmed](https://refcode.cc/referral/cosmed/): 邀請碼 MGMBK5ZTN；資料截至 2026-10-24
 - [Crypto.com](https://refcode.cc/referral/crypto-com/): 邀請碼 xsud5ved2v；資料截至 2026-10-19
 - [ether.fi Cash Card](https://refcode.cc/referral/etherfi-cash/): 邀請碼 32c0a418；資料截至 2026-10-23
 - [foodpanda](https://refcode.cc/referral/foodpanda/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
 - [FunNow](https://refcode.cc/referral/funnow/): 邀請碼 CGQ86GG；資料截至 2026-10-23
 - [Gogoro GoShare](https://refcode.cc/referral/gogoro-goshare/): 邀請碼 6GZI4；資料截至 2026-10-23
+- [Gomaji](https://refcode.cc/referral/gomaji/): 邀請碼 GHKQF；資料截至 2026-10-24
 - [Hosting.com](https://refcode.cc/referral/hosting-com/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
 - [icash Pay](https://refcode.cc/referral/icash-pay/): 邀請碼 UB202HU0；資料截至 2026-10-23
+- [發票怪獸](https://refcode.cc/referral/invoice-monster/): 邀請碼 JVP0PR61；資料截至 2026-10-24
 - [Klook 客路](https://refcode.cc/referral/klook/): 邀請碼 E3xNJQM5w8；資料截至 2026-10-23
+- [浪LIVE](https://refcode.cc/referral/lang-live/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [MAX](https://refcode.cc/referral/max/): 邀請碼 89225d4a；資料截至 2026-10-19
 - [Ocard](https://refcode.cc/referral/ocard/): 邀請碼 6qEWW4；資料截至 2026-10-23
 - [OKX](https://refcode.cc/referral/okx/): 邀請碼 CHFYPQCK；資料截至 2026-10-23
+- [Partying](https://refcode.cc/referral/partying/): 邀請碼 824981170；資料截至 2026-10-24
+- [Pinkoi](https://refcode.cc/referral/pinkoi/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
+- [Pionex 派網](https://refcode.cc/referral/pionex/): 邀請碼 0FfHG12tqCh；資料截至 2026-10-24
+- [PK 雙饗卡](https://refcode.cc/referral/pk-card/): 邀請碼 K1AL1R；資料截至 2026-10-24
 - [停車大聲公](https://refcode.cc/referral/pklot/): 邀請碼 DXQ2z；資料截至 2026-10-19
 - [全盈+PAY](https://refcode.cc/referral/pluspay/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
+- [寶雅 POYA](https://refcode.cc/referral/poya/): 邀請碼 MGMBJJUG4；資料截至 2026-10-24
+- [PressPlay Academy](https://refcode.cc/referral/pressplay/): 邀請碼 5JET5H；資料截至 2026-10-24
 - [全支付](https://refcode.cc/referral/pxpay/): 邀請碼 0ESI322L；資料截至 2026-10-19
 - [京站時尚廣場 Q Square](https://refcode.cc/referral/qsquare/): 邀請碼 01389334；資料截至 2026-10-23
 - [ShopBack](https://refcode.cc/referral/shopback/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-20
+- [美廉社 Simple Mart](https://refcode.cc/referral/simple-mart/): 邀請碼 S7wStYD0；資料截至 2026-10-24
+- [三創生活 PLUS](https://refcode.cc/referral/syntrend-plus/): 邀請碼 yhgw0；資料截至 2026-10-24
 - [TradingView](https://refcode.cc/referral/tradingview/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
 - [Uber Eats 優食](https://refcode.cc/referral/uber-eats/): 邀請碼 eats-v4lapf；資料截至 2026-10-23
 - [uniopen](https://refcode.cc/referral/uniopen/): 邀請碼 yhlur5；資料截至 2026-10-19
 - [VoiceTube 看影片學英語](https://refcode.cc/referral/voicetube/): 邀請碼 k8q4EoLk；資料截至 2026-10-23
 - [屈臣氏 Watsons](https://refcode.cc/referral/watsons/): 邀請碼 Kz3bJHJMi4；資料截至 2026-10-23
+- [WePlay](https://refcode.cc/referral/weplay/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
+- [Wirex](https://refcode.cc/referral/wirex/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 
 ## 站內說明
 
-- [各平台邀請碼總覽](https://refcode.cc/): 彙整交易所與各類服務平台的邀請碼（推薦碼）與註冊連結。每筆資料都標示最後驗證日期與連結網域，註冊前請再次確認網址。
+- [各平台邀請碼總覽](https://refcode.cc/): 彙整交易所與各類服務平台的邀請碼（推薦碼）與註冊連結。每筆資料都標示更新時間與連結網域，註冊前請再次確認網址。
 - [關於與揭露](https://refcode.cc/about/): 本站整理各平台的邀請碼與官方註冊連結，並說明資料如何驗證、本站與平台的關係，以及推薦連結可能帶來的回饋。
 - [無障礙聲明](https://refcode.cc/accessibility/): 我們希望每個人都能使用本站。以下說明目標標準、目前已做的檢查、已知限制，以及本站無法提供個別協助的事實。
 
@@ -59,6 +77,7 @@
 - [アクセシビリティに関する声明](https://refcode.cc/ja/accessibility/): 日本語
 - [접근성 선언](https://refcode.cc/ko/accessibility/): 한국어
 - [安麗 Am-Card](https://refcode.cc/en/referral/amway-amcard/): English
+- [BIGO LIVE](https://refcode.cc/en/referral/bigo-live/): English
 - [Binance](https://refcode.cc/en/referral/binance/): English
 - [Binance USDC 任務獎勵](https://refcode.cc/en/referral/binance-usdc/): English
 - [Bitfinex](https://refcode.cc/en/referral/bitfinex/): English
@@ -66,24 +85,41 @@
 - [Bybit](https://refcode.cc/en/referral/bybit/): English
 - [國泰世華 CUBE App](https://refcode.cc/en/referral/cathay-cube/): English
 - [國泰優惠](https://refcode.cc/en/referral/cathay-rewards/): English
+- [CHARGESPOT 共享行動電源](https://refcode.cc/en/referral/chargespot/): English
+- [CITYLINK](https://refcode.cc/en/referral/citylink/): English
+- [股市爆料同學會 CMoney](https://refcode.cc/en/referral/cmoney/): English
+- [康是美 Cosmed](https://refcode.cc/en/referral/cosmed/): English
 - [Crypto.com](https://refcode.cc/en/referral/crypto-com/): English
 - [ether.fi Cash Card](https://refcode.cc/en/referral/etherfi-cash/): English
 - [foodpanda](https://refcode.cc/en/referral/foodpanda/): English
 - [FunNow](https://refcode.cc/en/referral/funnow/): English
 - [Gogoro GoShare](https://refcode.cc/en/referral/gogoro-goshare/): English
+- [Gomaji](https://refcode.cc/en/referral/gomaji/): English
 - [Hosting.com](https://refcode.cc/en/referral/hosting-com/): English
 - [icash Pay](https://refcode.cc/en/referral/icash-pay/): English
+- [發票怪獸](https://refcode.cc/en/referral/invoice-monster/): English
 - [Klook 客路](https://refcode.cc/en/referral/klook/): English
+- [浪LIVE](https://refcode.cc/en/referral/lang-live/): English
 - [MAX](https://refcode.cc/en/referral/max/): English
 - [Ocard](https://refcode.cc/en/referral/ocard/): English
 - [OKX](https://refcode.cc/en/referral/okx/): English
+- [Partying](https://refcode.cc/en/referral/partying/): English
+- [Pinkoi](https://refcode.cc/en/referral/pinkoi/): English
+- [Pionex 派網](https://refcode.cc/en/referral/pionex/): English
+- [PK 雙饗卡](https://refcode.cc/en/referral/pk-card/): English
 - [停車大聲公](https://refcode.cc/en/referral/pklot/): English
 - [全盈+PAY](https://refcode.cc/en/referral/pluspay/): English
+- [寶雅 POYA](https://refcode.cc/en/referral/poya/): English
+- [PressPlay Academy](https://refcode.cc/en/referral/pressplay/): English
 - [全支付](https://refcode.cc/en/referral/pxpay/): English
 - [京站時尚廣場 Q Square](https://refcode.cc/en/referral/qsquare/): English
 - [ShopBack](https://refcode.cc/en/referral/shopback/): English
+- [美廉社 Simple Mart](https://refcode.cc/en/referral/simple-mart/): English
+- [三創生活 PLUS](https://refcode.cc/en/referral/syntrend-plus/): English
 - [TradingView](https://refcode.cc/en/referral/tradingview/): English
 - [Uber Eats 優食](https://refcode.cc/en/referral/uber-eats/): English
 - [uniopen](https://refcode.cc/en/referral/uniopen/): English
 - [VoiceTube 看影片學英語](https://refcode.cc/en/referral/voicetube/): English
 - [屈臣氏 Watsons](https://refcode.cc/en/referral/watsons/): English
+- [WePlay](https://refcode.cc/en/referral/weplay/): English
+- [Wirex](https://refcode.cc/en/referral/wirex/): English
