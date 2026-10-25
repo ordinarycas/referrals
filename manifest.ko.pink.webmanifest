@@ -1,0 +1,35 @@
+{
+  "id": "/ko/",
+  "name": "Referrals Source",
+  "short_name": "Referrals Source",
+  "description": "거래소, 지갑 등 다양한 서비스의 추천인 코드와 공식 가입 링크를 모았습니다. 번체 중국어, 영어, 일본어, 한국어를 지원하며 모든 항목에 업데이트 일자를 표시합니다.",
+  "lang": "ko",
+  "start_url": "/ko/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff5f8",
+  "theme_color": "#be185d",
+  "icons": [
+    {
+      "src": "/icon-192.pink.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.pink.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable-512.pink.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.pink.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

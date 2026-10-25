@@ -1,0 +1,35 @@
+{
+  "id": "/en/",
+  "name": "Referrals Source",
+  "short_name": "Referrals Source",
+  "description": "Referral codes and official sign-up links for exchanges, wallets and other services, in four languages. Every entry shows when it was last updated.",
+  "lang": "en",
+  "start_url": "/en/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon-192.white.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.white.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable-512.white.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.white.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://refcode.cc/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/en/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/ja/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/ko/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -103,6 +103,34 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/accessibility/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/accessibility/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/accessibility/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/airbnb-experiences/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/airbnb-experiences/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/airbnb-experiences/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/airbnb-experiences/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/airbnb-experiences/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/airbnb-experiences/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/airbnb-experiences/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/airbnb-experiences/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/amai/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/amai/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/amai/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/amai/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/amai/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/amai/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/amai/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/amai/"/>
   </url>
   <url>
     <loc>https://refcode.cc/referral/amway-amcard/</loc>
@@ -307,6 +335,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/crypto-com/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/referral/dori/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/dori/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/dori/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/dori/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/dori/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/dori/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/dori/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/dori/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/referral/etherfi-cash/</loc>
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/etherfi-cash/"/>
@@ -319,6 +361,48 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/etherfi-cash/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/eztravel/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/eztravel/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/eztravel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/eztravel/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/eztravel/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/eztravel/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/eztravel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/eztravel/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/fair-lady/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/fair-lady/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/fair-lady/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/fair-lady/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/fair-lady/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/fair-lady/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/fair-lady/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/fair-lady/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/family-mart/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/family-mart/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/family-mart/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/family-mart/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/family-mart/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/family-mart/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/family-mart/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/family-mart/"/>
   </url>
   <url>
     <loc>https://refcode.cc/referral/foodpanda/</loc>
@@ -433,6 +517,34 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/klook/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/referral/knn/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/knn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/knn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/knn/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/knn/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/knn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/knn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/knn/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/lalamove-driver/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/lalamove-driver/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/lalamove-driver/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/lalamove-driver/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/lalamove-driver/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/lalamove-driver/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/lalamove-driver/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/lalamove-driver/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/referral/lang-live/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/lang-live/"/>
@@ -447,6 +559,34 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/lang-live/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/referral/leapahead/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/leapahead/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/leapahead/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/leapahead/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/leapahead/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/leapahead/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/leapahead/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/leapahead/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/macromicro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/macromicro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/macromicro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/macromicro/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/macromicro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/macromicro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/macromicro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/macromicro/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/referral/max/</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/max/"/>
@@ -459,6 +599,34 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/max/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/max/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/max/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/no-wear-to-run/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/no-wear-to-run/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/no-wear-to-run/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/no-wear-to-run/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/no-wear-to-run/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/no-wear-to-run/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/no-wear-to-run/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/no-wear-to-run/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/norns/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/norns/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/norns/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/norns/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/norns/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/norns/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/norns/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/norns/"/>
   </url>
   <url>
     <loc>https://refcode.cc/referral/ocard/</loc>
@@ -601,6 +769,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pressplay/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/referral/pufii/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pufii/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pufii/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pufii/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/pufii/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pufii/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/pufii/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/pufii/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/referral/pxpay/</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/pxpay/"/>
@@ -657,6 +839,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/simple-mart/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/referral/studylive/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/studylive/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/studylive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/studylive/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/studylive/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/studylive/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/studylive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/studylive/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/referral/syntrend-plus/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/syntrend-plus/"/>
@@ -671,6 +867,76 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/syntrend-plus/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/referral/taipei-metro-go/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/taipei-metro-go/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/taipei-metro-go/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/taipei-metro-go/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/taipei-metro-go/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/taipei-metro-go/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/taipei-metro-go/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/taipei-metro-go/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/talkme/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/talkme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/talkme/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/talkme/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/talkme/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/talkme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/talkme/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/talkme/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/tide/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/tide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/tide/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/tide/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/tide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/tide/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/timberland-tw/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/timberland-tw/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/timberland-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/timberland-tw/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/timberland-tw/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/timberland-tw/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/timberland-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/timberland-tw/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/tnf-taiwan/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tnf-taiwan/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/tnf-taiwan/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/tnf-taiwan/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/tnf-taiwan/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tnf-taiwan/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/tnf-taiwan/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/tnf-taiwan/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/referral/tradingview/</loc>
     <lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tradingview/"/>
@@ -683,6 +949,20 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/tradingview/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/tradingview/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/tradingview/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/trip-com/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/trip-com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/trip-com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/trip-com/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/trip-com/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/trip-com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/trip-com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/trip-com/"/>
   </url>
   <url>
     <loc>https://refcode.cc/referral/uber-eats/</loc>
@@ -725,6 +1005,34 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/voicetube/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/voicetube/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/voicetube/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/voicetube-app/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/voicetube-app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/voicetube-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/voicetube-app/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/voicetube-app/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/voicetube-app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/voicetube-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/voicetube-app/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/voicetube-dictionary/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/voicetube-dictionary/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/voicetube-dictionary/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/voicetube-dictionary/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral/voicetube-dictionary/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/voicetube-dictionary/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/voicetube-dictionary/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/voicetube-dictionary/"/>
   </url>
   <url>
     <loc>https://refcode.cc/referral/watsons/</loc>
