@@ -69,6 +69,42 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/about/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/privacy/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/privacy/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/privacy/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/privacy/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ja/privacy/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/privacy/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ko/privacy/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/privacy/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/accessibility/</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/accessibility/"/>

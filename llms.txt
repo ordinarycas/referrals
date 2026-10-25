@@ -81,6 +81,7 @@
 
 - [各平台邀請碼總覽](https://refcode.cc/): 彙整交易所與各類服務平台的邀請碼（推薦碼）與註冊連結。每筆資料都標示更新時間與連結網域，註冊前請再次確認網址。
 - [關於與揭露](https://refcode.cc/about/): 本站整理各平台的邀請碼與官方註冊連結，並說明資料如何驗證、本站與平台的關係，以及推薦連結可能帶來的回饋。
+- [隱私權政策](https://refcode.cc/privacy/): 本站自己不設定 Cookie，沒有帳號與表單，也不自行蒐集個人資料。以下說明儲存在您裝置上的資料、流量統計，以及託管本站的服務。
 - [無障礙聲明](https://refcode.cc/accessibility/): 我們希望每個人都能使用本站。以下說明目標標準、只用鍵盤操作與以觸控探索（TalkBack、VoiceOver）的使用方式、目前已做的檢查、已知限制，以及本站無法提供個別協助的事實。
 
 ## 機器可讀資料
@@ -97,6 +98,9 @@
 - [About & disclosure](https://refcode.cc/en/about/): English
 - [サイトについてと開示事項](https://refcode.cc/ja/about/): 日本語
 - [소개 및 고지](https://refcode.cc/ko/about/): 한국어
+- [Privacy policy](https://refcode.cc/en/privacy/): English
+- [プライバシーポリシー](https://refcode.cc/ja/privacy/): 日本語
+- [개인정보 처리방침](https://refcode.cc/ko/privacy/): 한국어
 - [Accessibility statement](https://refcode.cc/en/accessibility/): English
 - [アクセシビリティに関する声明](https://refcode.cc/ja/accessibility/): 日本語
 - [접근성 선언](https://refcode.cc/ko/accessibility/): 한국어
