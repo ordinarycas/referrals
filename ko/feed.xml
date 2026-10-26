@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
+  <title>Referrals Source: 최근 업데이트된 추천인 코드 정보</title>
+  <subtitle>최근 확인되었거나 업데이트된 페이지를 모았습니다. 전체 목록은 sitemap.xml에서 확인할 수 있습니다.</subtitle>
+  <id>https://refcode.cc/ko/feed.xml</id>
+  <updated>2026-10-26T00:00:00Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://refcode.cc/ko/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://refcode.cc/ko/"/>
+  <author>
+    <name>Referrals Source</name>
+    <uri>https://refcode.cc/ko/</uri>
+  </author>
+  <entry>
+    <id>https://refcode.cc/ko/about/</id>
+    <title>소개 및 고지</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/about/"/>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <summary type="text">이 사이트가 추천인 코드와 가입 링크를 어떻게 모으고 확인·업데이트하는지, 소개된 플랫폼과의 관계, 추천 링크로 보상이 생길 수 있다는 점과 면책 사항을 설명합니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/referral-code-guide/</id>
+    <title>초대 코드란? 추천 코드와 링크 작동 방식</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/referral-code-guide/"/>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <summary type="text">초대 코드(추천 코드)와 초대 링크의 차이와 작동 방식, 가입 전에 확인할 링크 도메인·업데이트 일자·이용 지역·약관을 ShopBack과 ether.fi 사례로 설명합니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/category/shopping/</id>
+    <title>쇼핑·혜택 추천인 코드 모음</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/shopping/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">쇼핑·혜택 플랫폼 22개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/category/travel/</id>
+    <title>여행·교통 추천인 코드 모음</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/travel/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">여행·교통 플랫폼 9개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/privacy/</id>
+    <title>개인정보 처리방침</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/privacy/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">개인정보 처리방침: 이 사이트는 쿠키를 직접 설정하지 않습니다. 기기에 저장되는 데이터, Cloudflare Web Analytics 측정 항목, 호스팅의 연결 데이터 처리를 설명합니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/category/crypto-exchange/</id>
+    <title>암호화폐 거래소 추천인 코드 모음</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/crypto-exchange/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">암호화폐 거래소 플랫폼 9개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/category/education/</id>
+    <title>학습·교육 추천인 코드 모음</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/education/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">학습·교육 플랫폼 8개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/category/tech/</id>
+    <title>기술·소프트웨어 추천인 코드 모음</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/tech/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">기술·소프트웨어 플랫폼 6개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/accessibility/</id>
+    <title>접근성 선언</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/accessibility/"/>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <summary type="text">접근성 안내: 목표 기준인 WCAG 2.2 AA, 지금까지의 점검(axe-core와 키보드 조작), 알려진 제한 사항, 마지막 평가 일자를 안내합니다.</summary>
+  </entry>
+</feed>

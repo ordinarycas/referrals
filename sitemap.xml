@@ -38,6 +38,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/about/</loc>
+    <lastmod>2026-10-26</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
@@ -46,6 +47,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/en/about/</loc>
+    <lastmod>2026-10-26</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
@@ -54,6 +56,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/ja/about/</loc>
+    <lastmod>2026-10-26</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
@@ -62,11 +65,48 @@
   </url>
   <url>
     <loc>https://refcode.cc/ko/about/</loc>
+    <lastmod>2026-10-26</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/about/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/about/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/about/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral-code-guide/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral-code-guide/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/referral-code-guide/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral-code-guide/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ja/referral-code-guide/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral-code-guide/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ko/referral-code-guide/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/referral-code-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral-code-guide/"/>
   </url>
   <url>
     <loc>https://refcode.cc/privacy/</loc>
@@ -139,6 +179,186 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/accessibility/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/accessibility/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/accessibility/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/category/crypto-exchange/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/crypto-exchange/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/category/crypto-exchange/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/crypto-exchange/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ja/category/crypto-exchange/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/crypto-exchange/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ko/category/crypto-exchange/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/crypto-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/crypto-exchange/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/category/education/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/education/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/category/education/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/education/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ja/category/education/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/education/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ko/category/education/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/education/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/category/travel/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/travel/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/category/travel/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/travel/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ja/category/travel/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/travel/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ko/category/travel/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/travel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/travel/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/category/shopping/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/shopping/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/category/shopping/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/shopping/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ja/category/shopping/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/shopping/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ko/category/shopping/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/shopping/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/shopping/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/category/tech/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/tech/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/en/category/tech/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/tech/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ja/category/tech/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/tech/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/ko/category/tech/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://refcode.cc/ko/category/tech/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/category/tech/"/>
   </url>
   <url>
     <loc>https://refcode.cc/referral/airbnb-experiences/</loc>
@@ -386,14 +606,14 @@
   </url>
   <url>
     <loc>https://refcode.cc/referral/etherfi-cash/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/etherfi-cash/"/>
   </url>
   <url>
     <loc>https://refcode.cc/en/referral/etherfi-cash/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/etherfi-cash/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/etherfi-cash/"/>
@@ -848,14 +1068,14 @@
   </url>
   <url>
     <loc>https://refcode.cc/referral/shopback/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/shopback/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/shopback/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/shopback/"/>
   </url>
   <url>
     <loc>https://refcode.cc/en/referral/shopback/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/shopback/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/shopback/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/shopback/"/>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Referrals Source: recently updated referral codes</title>
+  <subtitle>Lists the pages verified or updated most recently. The full list is in sitemap.xml.</subtitle>
+  <id>https://refcode.cc/en/feed.xml</id>
+  <updated>2026-10-26T00:00:00Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://refcode.cc/en/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://refcode.cc/en/"/>
+  <author>
+    <name>Referrals Source</name>
+    <uri>https://refcode.cc/en/</uri>
+  </author>
+  <entry>
+    <id>https://refcode.cc/en/about/</id>
+    <title>About &amp; disclosure</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/about/"/>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <summary type="text">How this site collects and checks referral codes and sign-up links, how it relates to the listed platforms, and how referral links may earn it a reward.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral-code-guide/</id>
+    <title>What is a referral code? How it works</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral-code-guide/"/>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <summary type="text">What referral and invite codes are, how invite links carry them, and what to check before signing up: link domain, update date, region limits and terms.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/category/shopping/</id>
+    <title>Shopping and rewards referral codes</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/shopping/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">Shopping and rewards: referral codes and sign-up links for 22 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/category/travel/</id>
+    <title>Travel and mobility referral codes</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/travel/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">Travel and mobility: referral codes and sign-up links for 9 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/privacy/</id>
+    <title>Privacy policy</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/privacy/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">The site sets no cookies itself and has no accounts or forms. Stored data, what Cloudflare Web Analytics measures, and how hosts handle connection data.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/etherfi-cash/</id>
+    <title>ether.fi Cash Card referral code 32c0a418: sign-up steps and link domain</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/etherfi-cash/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">ether.fi Cash Card referral code 32c0a418: sign-up steps and link domain. Cash back and plan terms follow ether.fi&apos;s official notices. Updated Oct 25.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/shopback/</id>
+    <title>ShopBack invite link: sign-up and referral reward conditions</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/shopback/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">ShopBack invite link: sign up without entering a code and see the referral reward conditions. Terms follow ShopBack&apos;s official notices. Updated Oct 25.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/taipei-metro-go/</id>
+    <title>台北捷運Go referral code WTR7WBTZ: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/taipei-metro-go/"/>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary type="text">台北捷運Go referral code WTR7WBTZ. Member app of Taipei Rapid Transit Corporation: the share text carries invite code WTR7WBTZ… Updated October 25, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/category/crypto-exchange/</id>
+    <title>Crypto exchange referral codes</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/crypto-exchange/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Crypto exchange: referral codes and sign-up links for 9 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/category/education/</id>
+    <title>Learning referral codes</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/education/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Learning: referral codes and sign-up links for 8 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/category/tech/</id>
+    <title>Tech and software referral codes</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/tech/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Tech and software: referral codes and sign-up links for 6 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/airbnb-experiences/</id>
+    <title>Airbnb 體驗 referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/airbnb-experiences/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Airbnb 體驗 referral link. Book a first Airbnb Experience via this invite link; per the share text… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/amai/</id>
+    <title>amai referral code MGMCKQ0RT: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/amai/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">amai referral code MGMCKQ0RT. amai online shop: on a first purchase of NT$1,000 or more… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/bigo-live/</id>
+    <title>BIGO LIVE referral code 10680329250: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/bigo-live/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">BIGO LIVE referral code 10680329250. BIGO LIVE is an 18+ live-streaming and chat app; per its share text… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/chargespot/</id>
+    <title>CHARGESPOT 共享行動電源 referral code FRD6D21F79B</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/chargespot/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">CHARGESPOT 共享行動電源 referral code FRD6D21F79B. Power-bank rental service, used through the app. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/citylink/</id>
+    <title>CITYLINK referral code 6UID: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/citylink/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">CITYLINK referral code 6UID. Download CITYLINK, the member app of the CITYLINK shopping centers, and enter invite code 6UID. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/cmoney/</id>
+    <title>股市爆料同學會 CMoney referral code f65ra1</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/cmoney/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">股市爆料同學會 CMoney referral code f65ra1. Join 股市爆料同學會, CMoney&apos;s stock-discussion community app and website, with share code f65ra1. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/cosmed/</id>
+    <title>康是美 Cosmed referral code MGMBK5ZTN</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/cosmed/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">康是美 Cosmed referral code MGMBK5ZTN. Cosmed’s online shop: on a first purchase of NT$1,000 or more… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/dori/</id>
+    <title>Dori AI 英語口說 referral code 414f2a2c</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/dori/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Dori AI 英語口說 referral code 414f2a2c. Dori is an AI app for practicing spoken English… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/eztravel/</id>
+    <title>ezTravel 易遊網 referral link</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/eztravel/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">ezTravel 易遊網 referral link. Per the share text: an APP first-purchase offer and a gold-member upgrade after the first order. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/fair-lady/</id>
+    <title>Fair 妳不可風格誌 referral code MGMCKQ0RO</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/fair-lady/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Fair 妳不可風格誌 referral code MGMCKQ0RO. Fair Lady’s online shop: first purchase of NT$2,000 or more… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/family-mart/</id>
+    <title>全家行動購 referral code MGMCKQ0RC: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/family-mart/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">全家行動購 referral code MGMCKQ0RC. FamilyMart’s online shop: on a first order of NT$300 or more… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/gomaji/</id>
+    <title>Gomaji referral code GHKQF: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/gomaji/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Gomaji referral code GHKQF. Per the share text and invite page body, enter promo code GHKQF on a first Gomaji app download for… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/invoice-monster/</id>
+    <title>發票怪獸 referral code JVP0PR61: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/invoice-monster/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">發票怪獸 referral code JVP0PR61. 發票怪獸 (Q Monster) is a Taiwan receipt-lottery app; enter invite code JVP0PR61 at sign-up. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/knn/</id>
+    <title>光南大批發 referral code u7nDfG: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/knn/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">光南大批發 referral code u7nDfG. Member app of the 光南大批發 chain (App Store name: 光南好站): after download, enter invite code u7nDfG. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/lalamove-driver/</id>
+    <title>Lalamove 司機版 referral code 2VPF5B: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/lalamove-driver/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Lalamove 司機版 referral code 2VPF5B. Lalamove’s driver-partner app: register with the code; joining needs approval. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/lang-live/</id>
+    <title>浪LIVE referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/lang-live/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">浪LIVE referral link. Open 浪LIVE, a singing live-streaming app, via the referrer&apos;s personal link; no invite code. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/leapahead/</id>
+    <title>LeapAhead 有聲書 referral link</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/leapahead/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">LeapAhead 有聲書 referral link. Join LeapAhead, a book-summary app, via this link; the share text offers a 7-day free trial. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/macromicro/</id>
+    <title>MacroMicro 財經M平方 referral code ML8HQ5</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/macromicro/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">MacroMicro 財經M平方 referral code ML8HQ5. Subscribe to MacroMicro with invite code ML8HQ5; per the share text… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/no-wear-to-run/</id>
+    <title>跑步不要穿 No Wear To Run referral link</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/no-wear-to-run/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">跑步不要穿 No Wear To Run referral link. Share link for the No Wear To Run shopping app; the share text mentions no code or offer. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/norns/</id>
+    <title>Norns referral code MGMCKQ0R5: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/norns/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Norns referral code MGMCKQ0R5. Norns online shop: on a first purchase of NT$899 or more… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/partying/</id>
+    <title>Partying referral code 824981170: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/partying/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Partying referral code 824981170. Voice-chat app (18+) with in-app purchases; share text has no link, so the app is unconfirmed. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/pinkoi/</id>
+    <title>Pinkoi referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pinkoi/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Pinkoi referral link. Join Pinkoi through this link and get 2 shipping-fee coupons: NT$100 off at NT$500 or NT$1,000 App spend. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/pionex/</id>
+    <title>Pionex referral code 0FfHG12tqCh: Taiwan warning and sign-up notes</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pionex/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Pionex referral code 0FfHG12tqCh: a Taiwan SFB warning says it is unregistered and may not serve or solicit in Taiwan. Check sources first. Updated Oct 24.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/pk-card/</id>
+    <title>PK 雙饗卡 referral code K1AL1R: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pk-card/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">PK 雙饗卡 referral code K1AL1R. Pizza Hut and KFC member app: per the share text, new users who enter referral code K1AL1R can… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/poya/</id>
+    <title>寶雅 POYA referral code MGMBJJUG4: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/poya/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">寶雅 POYA referral code MGMBJJUG4. First order of NT$399+ at POYA online shop: enter code MGMBJJUG4 at checkout for NT$50 off. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/pressplay/</id>
+    <title>PressPlay Academy referral code 5JET5H</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pressplay/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">PressPlay Academy referral code 5JET5H. Per the share text, new users who sign up with code 5JET5H get 100 points for courses. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/pufii/</id>
+    <title>PUFII 帕妃 referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pufii/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">PUFII 帕妃 referral link. Share link for the PUFII women&apos;s fashion shopping app; the share text mentions no code or offer. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/simple-mart/</id>
+    <title>美廉社 Simple Mart referral code S7wStYD0</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/simple-mart/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">美廉社 Simple Mart referral code S7wStYD0. Enter invite code S7wStYD0 when registering in the Simple Mart app; per the share text… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/studylive/</id>
+    <title>StudyLive referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/studylive/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">StudyLive referral link. StudyLive, a 24-hour online study room: the share text has only a link, with no invite code or offer. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/syntrend-plus/</id>
+    <title>三創生活 PLUS referral code yhgw0: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/syntrend-plus/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">三創生活 PLUS referral code yhgw0. Share text: new members get 100 points; code yhgw0. Official pages do not tie the points to it. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/talkme/</id>
+    <title>TalkMe referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/talkme/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">TalkMe referral link. Share link for TalkMe, an AI app for practicing spoken English; no code… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/tide/</id>
+    <title>Tide 潮汐 referral code VN553YCF: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/tide/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Tide 潮汐 referral code VN553YCF. Sign up for Tide, a Taiwan stock-data service, with code VN553YCF… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/timberland-tw/</id>
+    <title>Timberland Taiwan referral link</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/timberland-tw/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Timberland Taiwan referral link. Share link for the Timberland Taiwan app; the share text mentions no code or offer. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/tnf-taiwan/</id>
+    <title>The North Face Taiwan referral link</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/tnf-taiwan/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">The North Face Taiwan referral link. Share link for TNF Taiwan, the member app; the share text mentions no code or offer. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/trip-com/</id>
+    <title>Trip.com referral code OMJRPP: sign-up link and guide</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/trip-com/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Trip.com referral code OMJRPP. Sign up for Trip.com via this link; per the share text… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/voicetube-app/</id>
+    <title>VoiceTube App referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/voicetube-app/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">VoiceTube App referral link. Share link for the VoiceTube English-learning app; the share text has only a slogan… Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/voicetube-dictionary/</id>
+    <title>VoiceTube 影音字典 referral link</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/voicetube-dictionary/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">VoiceTube 影音字典 referral link. Share link for the VoiceTube Dictionary app; the share text has only the name, no code or offer. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/weplay/</id>
+    <title>WePlay referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/weplay/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">WePlay referral link. Open WePlay, a party-game app with voice chat, via the referrer&apos;s PK invite link. No code or reward listed. Updated October 24, 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/wirex/</id>
+    <title>Wirex referral link: how to sign up and what to know</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/wirex/"/>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <summary type="text">Wirex referral link. Overseas service: read the Taiwan availability and regulatory notes first. Updated October 24, 2026.</summary>
+  </entry>
+</feed>

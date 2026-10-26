@@ -1,11 +1,11 @@
 :HL["/_next/static/chunks/0chgn5zf0ltp3.css","style"]
-:HL["/_next/static/chunks/11brvx6iuzyj0.css","style"]
-:HL["/_next/static/chunks/0zgod-k_nucuu.css","style"]
+:HL["/_next/static/chunks/1m1koxtf84nda.css","style"]
+:HL["/_next/static/chunks/0ymapc90ety3g.css","style"]
 :HC["/",""]
 :HL["/_next/static/chunks/104eyzuf_vq9a.css","style"]
-:HL["/_next/static/chunks/3pobbildgrssa.css","style"]
+:HL["/_next/static/chunks/25ekror9te2nd.css","style"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"syntrend-plus","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"referral","h":131136,"c":"$Q3"}]]
-1:[["children",{"s":{"n":"locale","t":"d","k":"ko","s":["about","accessibility","admin","offline","privacy","referral"]},"h":196656,"c":"$Q2"}]]
-0:{"b":"pEzR7RUF0945l5UHBaCHO","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+1:[["children",{"s":{"n":"locale","t":"d","k":"ko","s":["about","accessibility","admin","category","offline","privacy","referral","referral-code-guide"]},"h":196656,"c":"$Q2"}]]
+0:{"b":"_Ne4Iw9ajsVK5SH0PaOT0","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
