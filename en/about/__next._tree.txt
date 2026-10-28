@@ -1,10 +1,10 @@
 :HL["/_next/static/chunks/0mra790jqzcuv.css","style"]
 :HL["/_next/static/chunks/1yljkszrdbuy9.css","style"]
-:HL["/_next/static/chunks/1p8k5w59_ic9h.css","style"]
+:HL["/_next/static/chunks/2_z3fjzh01t58.css","style"]
 :HC["/",""]
-:HL["/_next/static/chunks/3yq323bmvddhg.css","style"]
+:HL["/_next/static/chunks/27of-gafwdznn.css","style"]
 :HL["/_next/static/chunks/104eyzuf_vq9a.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"about","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["about","accessibility","admin","category","offline","privacy","referral","referral-code-guide"]},"h":65584,"c":"$Q2"}]]
-0:{"b":"cbRjGmwfFHo93oF-vc3_L","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"IHQA0XTxzUqjWyMy64rQF","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

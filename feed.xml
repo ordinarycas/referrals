@@ -11,11 +11,53 @@
     <uri>https://refcode.cc/</uri>
   </author>
   <entry>
+    <id>https://refcode.cc/about/</id>
+    <title>關於與揭露</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/about/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">說明本站如何整理各平台的邀請碼與註冊連結、資料如何確認與更新、本站與所列平台的關係，以及推薦連結可能帶來的回饋與免責聲明，註冊前建議先閱讀。</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/category/crypto-exchange/</id>
+    <title>加密貨幣交易所邀請碼整理</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/category/crypto-exchange/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">整理 9 個加密貨幣交易所平台的邀請碼（推薦碼）與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/category/shopping/</id>
+    <title>購物與回饋邀請碼整理</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/category/shopping/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">整理 23 個購物與回饋平台的邀請碼（推薦碼）與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/referral-code-guide/</id>
+    <title>邀請碼是什麼？推薦碼與邀請連結怎麼運作</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral-code-guide/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">說明邀請碼、推薦碼、分享碼的差別與運作方式，以及註冊前該檢查的連結網域、更新時間、地區限制與平台條款，並以 ShopBack、ether.fi 為例。</summary>
+  </entry>
+  <entry>
     <id>https://refcode.cc/referral/anue-fund/</id>
     <title>鉅亨買基金 邀請碼 M0069321：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/anue-fund/"/>
     <updated>2026-10-28T00:00:00Z</updated>
     <summary type="text">鉅亨買基金 邀請碼 M0069321：鉅亨買基金的好友專屬開戶連結：邀請碼 M0069321 已在連結中。基金手續費優惠依基金品牌與系列而異，開戶好禮與優惠內容以官方公告為準。更新時間 2026年10月28日。</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/referral/bitopro/</id>
+    <title>BitoPro 邀請碼 8238042506：註冊連結與使用教學</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/bitopro/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">BitoPro 邀請碼 8238042506（又稱「推薦人ID」）：幣託 BitoPro 加密貨幣交易所的邀請連結，推薦人 ID 已在連結中。更新時間 2026年10月28日。</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/referral/coupang/</id>
+    <title>酷澎 Coupang 邀請碼 94Mj53WKt：註冊連結與使用教學</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/coupang/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">酷澎 Coupang 邀請碼 94Mj53WKt：酷澎分潤計畫（Coupang Partners）的邀請碼與註冊連結；頁面下方另列幾項酷澎商品的分潤購買連結。更新時間 2026年10月28日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/ctbc-bank/</id>
@@ -25,6 +67,13 @@
     <summary type="text">中國信託銀行 邀請碼 OvBP0sib：中國信託銀行的邀請碼 OvBP0sib：在活動期間內申辦指定業務時輸入，完成後雙方可一起拿獎勵。活動期間、指定業務與獎勵內容以官方公告為準。更新時間 2026年10月28日。</summary>
   </entry>
   <entry>
+    <id>https://refcode.cc/referral/max/</id>
+    <title>MAX 邀請碼 89225d4a：註冊連結與使用教學</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/max/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">MAX 邀請碼 89225d4a（又稱「推薦碼」）：MAX 數位資產交易所，提供比特幣、以太幣、USDT 等熱門交易對。依官方推薦計畫，被推薦人註冊後六個月內享 20% 交易手續費折扣。更新時間 2026年10月28日。</summary>
+  </entry>
+  <entry>
     <id>https://refcode.cc/referral/wirex/</id>
     <title>Wirex 邀請碼 0xBdd1…b0df：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/wirex/"/>
@@ -32,32 +81,11 @@
     <summary type="text">Wirex 邀請碼 0xBdd1f71aa0Bf02deEdf6B58CAb02dF3dD5F6b0df：境外服務，台灣可用性與監管狀態請先閱讀說明。更新時間 2026年10月28日。</summary>
   </entry>
   <entry>
-    <id>https://refcode.cc/about/</id>
-    <title>關於與揭露</title>
-    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/about/"/>
-    <updated>2026-10-26T00:00:00Z</updated>
-    <summary type="text">說明本站如何整理各平台的邀請碼與註冊連結、資料如何確認與更新、本站與所列平台的關係，以及推薦連結可能帶來的回饋與免責聲明，註冊前建議先閱讀。</summary>
-  </entry>
-  <entry>
-    <id>https://refcode.cc/referral-code-guide/</id>
-    <title>邀請碼是什麼？推薦碼與邀請連結怎麼運作</title>
-    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral-code-guide/"/>
-    <updated>2026-10-26T00:00:00Z</updated>
-    <summary type="text">說明邀請碼（推薦碼）與邀請連結的差別、運作方式，以及註冊前該檢查的連結網域、更新時間、地區限制與平台條款，並以 ShopBack、ether.fi 為例。</summary>
-  </entry>
-  <entry>
-    <id>https://refcode.cc/category/shopping/</id>
-    <title>購物與回饋邀請碼整理</title>
-    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/category/shopping/"/>
-    <updated>2026-10-25T00:00:00Z</updated>
-    <summary type="text">整理 22 個購物與回饋平台的邀請碼與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
-  </entry>
-  <entry>
     <id>https://refcode.cc/category/travel/</id>
     <title>旅遊與交通邀請碼整理</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/category/travel/"/>
     <updated>2026-10-25T00:00:00Z</updated>
-    <summary type="text">整理 9 個旅遊與交通平台的邀請碼與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
+    <summary type="text">整理 9 個旅遊與交通平台的邀請碼（推薦碼）與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/privacy/</id>
@@ -88,25 +116,18 @@
     <summary type="text">台北捷運Go 邀請碼 WTR7WBTZ：臺北大眾捷運股份有限公司的會員 App：分享文案附有邀請碼 WTR7WBTZ，下載連結須用手機開啟。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月25日。</summary>
   </entry>
   <entry>
-    <id>https://refcode.cc/category/crypto-exchange/</id>
-    <title>加密貨幣交易所邀請碼整理</title>
-    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/category/crypto-exchange/"/>
-    <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">整理 9 個加密貨幣交易所平台的邀請碼與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
-  </entry>
-  <entry>
     <id>https://refcode.cc/category/education/</id>
     <title>學習與教育邀請碼整理</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/category/education/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">整理 8 個學習與教育平台的邀請碼與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
+    <summary type="text">整理 8 個學習與教育平台的邀請碼（推薦碼）與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/category/tech/</id>
     <title>科技與軟體邀請碼整理</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/category/tech/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">整理 6 個科技與軟體平台的邀請碼與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
+    <summary type="text">整理 6 個科技與軟體平台的邀請碼（推薦碼）與註冊連結，並列出連結網域、優惠重點、適用地區與更新時間。排列依本站清單順序，不是排名，註冊前建議逐項比對並確認網址。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/airbnb-experiences/</id>
@@ -120,7 +141,7 @@
     <title>amai 邀請碼 MGMCKQ0RT：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/amai/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">amai 邀請碼 MGMCKQ0RT：amai 首次購買訂單滿 NT$1,000，結帳輸入優惠碼 MGMCKQ0RT，訂單現折 NT$200。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">amai 邀請碼 MGMCKQ0RT（又稱「優惠碼」）：amai 首次購買訂單滿 NT$1,000，結帳輸入優惠碼 MGMCKQ0RT，訂單現折 NT$200。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/bigo-live/</id>
@@ -148,21 +169,21 @@
     <title>股市爆料同學會 CMoney 邀請碼 f65ra1：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/cmoney/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">股市爆料同學會 CMoney 邀請碼 f65ra1：透過分享碼 f65ra1 加入股市爆料同學會，這是 CMoney 推出的股票討論社群 App 與網站。更新時間 2026年10月24日。</summary>
+    <summary type="text">股市爆料同學會 CMoney 邀請碼 f65ra1（又稱「分享碼」）：透過分享碼 f65ra1 加入股市爆料同學會，這是 CMoney 推出的股票討論社群 App 與網站。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/cosmed/</id>
     <title>康是美 Cosmed 邀請碼 MGMBK5ZTN：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/cosmed/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">康是美 Cosmed 邀請碼 MGMBK5ZTN：康是美網購eShop 首次購買訂單滿 NT$1,000，結帳輸入優惠碼 MGMBK5ZTN，訂單現折 NT$100。更新時間 2026年10月24日。</summary>
+    <summary type="text">康是美 Cosmed 邀請碼 MGMBK5ZTN（又稱「優惠碼」）：康是美網購eShop 首次購買訂單滿 NT$1,000，結帳輸入優惠碼 MGMBK5ZTN，訂單現折 NT$100。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/dori/</id>
     <title>Dori AI 英語口說 邀請碼 414f2a2c：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/dori/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Dori AI 英語口說 邀請碼 414f2a2c：Dori 是練習英語口說的 AI 對話 App；分享文案附有推薦碼 414f2a2c。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">Dori AI 英語口說 邀請碼 414f2a2c（又稱「推薦碼」）：Dori 是練習英語口說的 AI 對話 App；分享文案附有推薦碼 414f2a2c。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/eztravel/</id>
@@ -176,21 +197,21 @@
     <title>Fair 妳不可風格誌 邀請碼 MGMCKQ0RO：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/fair-lady/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Fair 妳不可風格誌 邀請碼 MGMCKQ0RO：Fair 妳不可風格誌首次購買訂單滿 NT$2,000，結帳輸入優惠碼 MGMCKQ0RO，訂單現折 NT$300。更新時間 2026年10月24日。</summary>
+    <summary type="text">Fair 妳不可風格誌 邀請碼 MGMCKQ0RO（又稱「優惠碼」）：Fair 妳不可風格誌首次購買訂單滿 NT$2,000，結帳輸入優惠碼 MGMCKQ0RO，訂單現折 NT$300。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/family-mart/</id>
     <title>全家行動購 邀請碼 MGMCKQ0RC：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/family-mart/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">全家行動購 邀請碼 MGMCKQ0RC：全家行動購首次購買訂單滿 NT$300，結帳輸入優惠碼 MGMCKQ0RC，訂單現折 NT$50。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">全家行動購 邀請碼 MGMCKQ0RC（又稱「優惠碼」）：全家行動購首次購買訂單滿 NT$300，結帳輸入優惠碼 MGMCKQ0RC，訂單現折 NT$50。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/gomaji/</id>
     <title>Gomaji 邀請碼 GHKQF：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/gomaji/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Gomaji 邀請碼 GHKQF：依分享文案與邀請頁內文，首次下載 Gomaji APP 並輸入優惠碼 GHKQF 可得 120 點（邀請頁標題寫 100 點；1 點 = NT$1）。更新時間 2026年10月24日。</summary>
+    <summary type="text">Gomaji 邀請碼 GHKQF（又稱「優惠碼」）：依分享文案與邀請頁內文，首次下載 Gomaji APP 並輸入優惠碼 GHKQF 可得 120 點（邀請頁標題寫 100 點…更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/invoice-monster/</id>
@@ -211,7 +232,7 @@
     <title>Lalamove 司機版 邀請碼 2VPF5B：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/lalamove-driver/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Lalamove 司機版 邀請碼 2VPF5B：貨運與外送平台的司機 App，註冊時使用推薦碼，通過審核才算加入。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">Lalamove 司機版 邀請碼 2VPF5B（又稱「推薦碼」）：貨運與外送平台的司機 App，註冊時使用推薦碼，通過審核才算加入。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/lang-live/</id>
@@ -246,14 +267,14 @@
     <title>Norns 邀請碼 MGMCKQ0R5：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/norns/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Norns 邀請碼 MGMCKQ0R5：Norns 首次購買訂單滿 NT$899，結帳輸入優惠碼 MGMCKQ0R5，訂單現折 NT$100。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">Norns 邀請碼 MGMCKQ0R5（又稱「優惠碼」）：Norns 首次購買訂單滿 NT$899，結帳輸入優惠碼 MGMCKQ0R5，訂單現折 NT$100。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/partying/</id>
     <title>Partying 邀請碼 824981170：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/partying/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Partying 邀請碼 824981170：語音聊天與小遊戲的社交 App（18 歲以上）；分享文案只有邀請碼 824981170、無連結，無法確認屬於哪個 App，有站內消費。更新時間 2026年10月24日。</summary>
+    <summary type="text">Partying 邀請碼 824981170（又稱「活動邀請碼」）：語音聊天與小遊戲的社交 App（18 歲以上）；分享文案只有邀請碼 824981170、無連結…更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/pinkoi/</id>
@@ -274,14 +295,14 @@
     <title>PK 雙饗卡 邀請碼 K1AL1R：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/pk-card/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">PK 雙饗卡 邀請碼 K1AL1R：必勝客與肯德基（KFC）的會員 App：依分享文案，新朋友註冊時輸入推薦碼 K1AL1R，可領優惠券，結帳現折。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">PK 雙饗卡 邀請碼 K1AL1R（又稱「推薦碼」）：必勝客與肯德基（KFC）的會員 App：依分享文案，新朋友註冊時輸入推薦碼 K1AL1R，可領優惠券，結帳現折。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/poya/</id>
     <title>寶雅 POYA 邀請碼 MGMBJJUG4：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/poya/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">寶雅 POYA 邀請碼 MGMBJJUG4：POYA寶雅線上買首購滿 NT$399，結帳輸入好友優惠碼 MGMBJJUG4 可折抵 NT$50。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">寶雅 POYA 邀請碼 MGMBJJUG4（又稱「好友優惠碼」）：POYA寶雅線上買首購滿 NT$399，結帳輸入好友優惠碼 MGMBJJUG4 可折抵 NT$50。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/pressplay/</id>
@@ -316,7 +337,7 @@
     <title>三創生活 PLUS 邀請碼 yhgw0：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/syntrend-plus/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">三創生活 PLUS 邀請碼 yhgw0：三創生活的會員 App；依分享文案，註冊新會員得 100 點，推薦碼 yhgw0；官方頁面沒有寫 100 點需要輸入推薦碼。更新時間 2026年10月24日。</summary>
+    <summary type="text">三創生活 PLUS 邀請碼 yhgw0（又稱「推薦碼」）：三創生活的會員 App；依分享文案，註冊新會員得 100 點，推薦碼 yhgw0；官方頁面沒有寫 100 點需要輸入推薦碼。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/talkme/</id>
@@ -351,7 +372,7 @@
     <title>Trip.com 邀請碼 OMJRPP：註冊連結與使用教學</title>
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/trip-com/"/>
     <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Trip.com 邀請碼 OMJRPP：透過邀請連結註冊 Trip.com 會員，依分享文案可得高達 NT$264 的航班、飯店預訂優惠。查看註冊步驟、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
+    <summary type="text">Trip.com 邀請碼 OMJRPP（又稱「推薦碼」）：透過邀請連結註冊 Trip.com 會員，依分享文案可得高達 NT$264 的航班、飯店預訂優惠。更新時間 2026年10月24日。</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/referral/voicetube-app/</id>

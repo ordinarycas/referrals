@@ -1,6 +1,6 @@
 # Referrals Source
 
-> 彙整交易所、錢包與各類服務平台的邀請碼（推薦碼）與官方註冊連結，支援繁中、英文、日文、韓文，每筆資料皆標示連結網域與更新時間，註冊前可先比對。本站含推薦連結，您註冊後本站可能獲得回饋。
+> 彙整交易所、錢包與各類服務平台的邀請碼（推薦碼、分享碼）與官方註冊連結，支援繁中、英文、日文、韓文，每筆資料皆標示連結網域與更新時間，註冊前可先比對。本站含推薦連結，您註冊後本站可能獲得回饋。
 
 資料更新日：2026-10-28。
 
@@ -14,7 +14,7 @@
 - [Binance](https://refcode.cc/referral/binance/): 邀請碼 37477679；資料截至 2026-10-19
 - [Binance USDC 任務獎勵](https://refcode.cc/referral/binance-usdc/): 邀請碼 GRO_28502_SZ300；資料截至 2026-10-23
 - [Bitfinex](https://refcode.cc/referral/bitfinex/): 邀請碼 1dwvQlwCN；資料截至 2026-10-19
-- [BitoPro](https://refcode.cc/referral/bitopro/): 邀請碼 8238042506；資料截至 2026-10-19
+- [BitoPro](https://refcode.cc/referral/bitopro/): 邀請碼 8238042506；資料截至 2026-10-28
 - [Bybit](https://refcode.cc/referral/bybit/): 邀請碼 9QJMRD；資料截至 2026-10-19
 - [群益期貨 KeensPie](https://refcode.cc/referral/capital-futures/): 邀請碼 KWTUYUY；資料截至 2026-10-23
 - [國泰世華 CUBE App](https://refcode.cc/referral/cathay-cube/): 邀請碼 H21AU；資料截至 2026-10-19
@@ -23,6 +23,7 @@
 - [CITYLINK](https://refcode.cc/referral/citylink/): 邀請碼 6UID；資料截至 2026-10-24
 - [股市爆料同學會 CMoney](https://refcode.cc/referral/cmoney/): 邀請碼 f65ra1；資料截至 2026-10-24
 - [康是美 Cosmed](https://refcode.cc/referral/cosmed/): 邀請碼 MGMBK5ZTN；資料截至 2026-10-24
+- [酷澎 Coupang](https://refcode.cc/referral/coupang/): 邀請碼 94Mj53WKt；資料截至 2026-10-28
 - [Crypto.com](https://refcode.cc/referral/crypto-com/): 邀請碼 xsud5ved2v；資料截至 2026-10-19
 - [中國信託銀行](https://refcode.cc/referral/ctbc-bank/): 邀請碼 OvBP0sib；資料截至 2026-10-28
 - [Dori AI 英語口說](https://refcode.cc/referral/dori/): 邀請碼 414f2a2c；資料截至 2026-10-24
@@ -43,7 +44,7 @@
 - [浪LIVE](https://refcode.cc/referral/lang-live/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [LeapAhead 有聲書](https://refcode.cc/referral/leapahead/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [MacroMicro 財經M平方](https://refcode.cc/referral/macromicro/): 邀請碼 ML8HQ5；資料截至 2026-10-24
-- [MAX](https://refcode.cc/referral/max/): 邀請碼 89225d4a；資料截至 2026-10-19
+- [MAX](https://refcode.cc/referral/max/): 邀請碼 89225d4a；資料截至 2026-10-28
 - [跑步不要穿 No Wear To Run](https://refcode.cc/referral/no-wear-to-run/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [Norns](https://refcode.cc/referral/norns/): 邀請碼 MGMCKQ0R5；資料截至 2026-10-24
 - [Ocard](https://refcode.cc/referral/ocard/): 邀請碼 6qEWW4；資料截至 2026-10-23
@@ -89,9 +90,9 @@
 
 ## 站內說明
 
-- [各平台邀請碼總覽](https://refcode.cc/): 彙整交易所與各類服務平台的邀請碼（推薦碼）與註冊連結。每筆資料都標示更新時間與連結網域，註冊前請再次確認網址。
+- [各平台邀請碼總覽](https://refcode.cc/): 彙整交易所與各類服務平台的邀請碼（推薦碼、分享碼）與註冊連結。每筆資料都標示更新時間與連結網域，註冊前請再次確認網址。
 - [關於與揭露](https://refcode.cc/about/): 本站整理各平台的邀請碼與官方註冊連結，並說明資料如何驗證、本站與平台的關係，以及推薦連結可能帶來的回饋。
-- [邀請碼是什麼？推薦碼與邀請連結怎麼運作](https://refcode.cc/referral-code-guide/): 邀請碼是註冊時填入的一組代碼：平台用它管控誰能註冊，或記錄你是被誰推薦的。推薦碼大多是同一回事，邀請連結則通常已經帶著這組代碼。
+- [邀請碼是什麼？推薦碼與邀請連結怎麼運作](https://refcode.cc/referral-code-guide/): 邀請碼是註冊時填入的一組代碼：平台用它管控誰能註冊，或記錄你是被誰推薦的。推薦碼、分享碼大多是同一回事，邀請連結則通常已經帶著這組代碼。
 - [隱私權政策](https://refcode.cc/privacy/): 本站自己不設定 Cookie，沒有帳號與表單，也不自行蒐集個人資料。以下說明儲存在您裝置上的資料、流量統計，以及託管本站的服務。
 - [無障礙聲明](https://refcode.cc/accessibility/): 我們希望每個人都能使用本站。以下說明目標標準、只用鍵盤操作與以觸控探索（TalkBack、VoiceOver）的使用方式、目前已做的檢查、已知限制，以及本站無法提供個別協助的事實。
 
