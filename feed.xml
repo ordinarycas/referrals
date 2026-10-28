@@ -3,13 +3,34 @@
   <title>Referrals Source：最近更新的邀請碼資料</title>
   <subtitle>列出最近驗證或更新的頁面，完整清單見 sitemap.xml。</subtitle>
   <id>https://refcode.cc/feed.xml</id>
-  <updated>2026-10-26T00:00:00Z</updated>
+  <updated>2026-10-28T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://refcode.cc/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://refcode.cc/"/>
   <author>
     <name>Referrals Source</name>
     <uri>https://refcode.cc/</uri>
   </author>
+  <entry>
+    <id>https://refcode.cc/referral/anue-fund/</id>
+    <title>鉅亨買基金 邀請碼 M0069321：註冊連結與使用教學</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/anue-fund/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">鉅亨買基金 邀請碼 M0069321：鉅亨買基金的好友專屬開戶連結：邀請碼 M0069321 已在連結中。基金手續費優惠依基金品牌與系列而異，開戶好禮與優惠內容以官方公告為準。更新時間 2026年10月28日。</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/referral/ctbc-bank/</id>
+    <title>中國信託銀行 邀請碼 OvBP0sib：註冊連結與使用教學</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/ctbc-bank/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">中國信託銀行 邀請碼 OvBP0sib：中國信託銀行的邀請碼 OvBP0sib：在活動期間內申辦指定業務時輸入，完成後雙方可一起拿獎勵。活動期間、指定業務與獎勵內容以官方公告為準。更新時間 2026年10月28日。</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/referral/wirex/</id>
+    <title>Wirex 邀請碼 0xBdd1…b0df：註冊連結與使用教學</title>
+    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/wirex/"/>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <summary type="text">Wirex 邀請碼 0xBdd1f71aa0Bf02deEdf6B58CAb02dF3dD5F6b0df：境外服務，台灣可用性與監管狀態請先閱讀說明。更新時間 2026年10月28日。</summary>
+  </entry>
   <entry>
     <id>https://refcode.cc/about/</id>
     <title>關於與揭露</title>
@@ -352,12 +373,5 @@
     <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/weplay/"/>
     <updated>2026-10-24T00:00:00Z</updated>
     <summary type="text">WePlay 邀請連結：透過邀請人的 PK 邀請連結開啟 WePlay，一款可語音聊天的派對遊戲 App；沒有列出邀請碼與獎勵。查看註冊方式、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
-  </entry>
-  <entry>
-    <id>https://refcode.cc/referral/wirex/</id>
-    <title>Wirex 邀請連結：註冊方式與注意事項</title>
-    <link rel="alternate" type="text/html" hreflang="zh-TW" href="https://refcode.cc/referral/wirex/"/>
-    <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Wirex 邀請連結：境外服務，台灣可用性與監管狀態請先閱讀說明。Wirex 是結合錢包與支付卡的加密資產與支付 App，邀請連結不需邀請碼。查看註冊方式、使用注意事項與官方連結，更新時間 2026年10月24日。</summary>
   </entry>
 </feed>

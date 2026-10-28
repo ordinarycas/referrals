@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://refcode.cc/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/en/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/ja/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://refcode.cc/ko/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://refcode.cc/ja/"/>
@@ -403,6 +403,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/amway-amcard/"/>
   </url>
   <url>
+    <loc>https://refcode.cc/referral/anue-fund/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/anue-fund/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/anue-fund/"/>
+  </url>
+  <url>
     <loc>https://refcode.cc/referral/bigo-live/</loc>
     <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/bigo-live/"/>
@@ -589,6 +595,12 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/crypto-com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/crypto-com/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/crypto-com/"/>
+  </url>
+  <url>
+    <loc>https://refcode.cc/referral/ctbc-bank/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/ctbc-bank/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/ctbc-bank/"/>
   </url>
   <url>
     <loc>https://refcode.cc/referral/dori/</loc>
@@ -1320,14 +1332,14 @@
   </url>
   <url>
     <loc>https://refcode.cc/referral/wirex/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/wirex/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/wirex/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/wirex/"/>
   </url>
   <url>
     <loc>https://refcode.cc/en/referral/wirex/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://refcode.cc/referral/wirex/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://refcode.cc/en/referral/wirex/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://refcode.cc/referral/wirex/"/>
