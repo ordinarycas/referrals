@@ -2,7 +2,7 @@
 
 > 彙整交易所、錢包與各類服務平台的邀請碼（推薦碼、分享碼）與官方註冊連結，支援繁中、英文、日文、韓文，每筆資料皆標示連結網域與更新時間，註冊前可先比對。本站含推薦連結，您註冊後本站可能獲得回饋。
 
-資料更新日：2026-10-28。
+資料更新日：2026-10-30。
 
 ## 平台
 
@@ -31,11 +31,13 @@
 - [ezTravel 易遊網](https://refcode.cc/referral/eztravel/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [Fair 妳不可風格誌](https://refcode.cc/referral/fair-lady/): 邀請碼 MGMCKQ0RO；資料截至 2026-10-24
 - [全家行動購](https://refcode.cc/referral/family-mart/): 邀請碼 MGMCKQ0RC；資料截至 2026-10-24
+- [FC2 電子市場](https://refcode.cc/referral/fc2-content-market/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-30
+- [FC2 電子市場 成人區](https://refcode.cc/referral/fc2-content-market-adult/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-30
 - [foodpanda](https://refcode.cc/referral/foodpanda/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
 - [FunNow](https://refcode.cc/referral/funnow/): 邀請碼 CGQ86GG；資料截至 2026-10-23
 - [Gogoro GoShare](https://refcode.cc/referral/gogoro-goshare/): 邀請碼 6GZI4；資料截至 2026-10-23
 - [Gomaji](https://refcode.cc/referral/gomaji/): 邀請碼 GHKQF；資料截至 2026-10-24
-- [Hosting.com](https://refcode.cc/referral/hosting-com/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
+- [Hosting.com](https://refcode.cc/referral/hosting-com/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-30
 - [icash Pay](https://refcode.cc/referral/icash-pay/): 邀請碼 UB202HU0；資料截至 2026-10-23
 - [發票怪獸](https://refcode.cc/referral/invoice-monster/): 邀請碼 JVP0PR61；資料截至 2026-10-24
 - [Klook 客路](https://refcode.cc/referral/klook/): 邀請碼 E3xNJQM5w8；資料截至 2026-10-23
@@ -43,6 +45,7 @@
 - [Lalamove 司機版](https://refcode.cc/referral/lalamove-driver/): 邀請碼 2VPF5B；資料截至 2026-10-24
 - [浪LIVE](https://refcode.cc/referral/lang-live/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [LeapAhead 有聲書](https://refcode.cc/referral/leapahead/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
+- [LOL 質變：大混戰音樂季](https://refcode.cc/referral/lol-music-event/): 邀請碼 aFkcdLLi；資料截至 2026-10-30
 - [MacroMicro 財經M平方](https://refcode.cc/referral/macromicro/): 邀請碼 ML8HQ5；資料截至 2026-10-24
 - [MAX](https://refcode.cc/referral/max/): 邀請碼 89225d4a；資料截至 2026-10-28
 - [跑步不要穿 No Wear To Run](https://refcode.cc/referral/no-wear-to-run/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
@@ -52,7 +55,7 @@
 - [Partying](https://refcode.cc/referral/partying/): 邀請碼 824981170；資料截至 2026-10-24
 - [Pinkoi](https://refcode.cc/referral/pinkoi/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [Pionex 派網](https://refcode.cc/referral/pionex/): 邀請碼 0FfHG12tqCh；資料截至 2026-10-24
-- [PK 雙饗卡](https://refcode.cc/referral/pk-card/): 邀請碼 K1AL1R；資料截至 2026-10-24
+- [PK 雙饗卡](https://refcode.cc/referral/pk-card/): 邀請碼 K1AL1R；資料截至 2026-10-30
 - [停車大聲公](https://refcode.cc/referral/pklot/): 邀請碼 DXQ2z；資料截至 2026-10-19
 - [全盈+PAY](https://refcode.cc/referral/pluspay/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-23
 - [寶雅 POYA](https://refcode.cc/referral/poya/): 邀請碼 MGMBJJUG4；資料截至 2026-10-24
@@ -77,8 +80,10 @@
 - [VoiceTube App](https://refcode.cc/referral/voicetube-app/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [VoiceTube 影音字典](https://refcode.cc/referral/voicetube-dictionary/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [屈臣氏 Watsons](https://refcode.cc/referral/watsons/): 邀請碼 Kz3bJHJMi4；資料截至 2026-10-23
+- [WeMo Scooter](https://refcode.cc/referral/wemo-scooter/): 邀請碼 NFKWAETQW；資料截至 2026-10-30
 - [WePlay](https://refcode.cc/referral/weplay/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-24
 - [Wirex](https://refcode.cc/referral/wirex/): 邀請碼 0xBdd1f71aa0Bf02deEdf6B58CAb02dF3dD5F6b0df；資料截至 2026-10-28
+- [XO](https://refcode.cc/referral/xo/): 無邀請碼，使用邀請連結註冊；資料截至 2026-10-30
 
 ## 分類
 
@@ -93,7 +98,7 @@
 - [各平台邀請碼總覽](https://refcode.cc/): 彙整交易所與各類服務平台的邀請碼（推薦碼、分享碼）與註冊連結。每筆資料都標示更新時間與連結網域，註冊前請再次確認網址。
 - [關於與揭露](https://refcode.cc/about/): 本站整理各平台的邀請碼與官方註冊連結，並說明資料如何驗證、本站與平台的關係，以及推薦連結可能帶來的回饋。
 - [邀請碼是什麼？推薦碼與邀請連結怎麼運作](https://refcode.cc/referral-code-guide/): 邀請碼是註冊時填入的一組代碼：平台用它管控誰能註冊，或記錄你是被誰推薦的。推薦碼、分享碼大多是同一回事，邀請連結則通常已經帶著這組代碼。
-- [隱私權政策](https://refcode.cc/privacy/): 本站自己不設定 Cookie，沒有帳號與表單，也不自行蒐集個人資料。以下說明儲存在您裝置上的資料、流量統計，以及託管本站的服務。
+- [隱私權政策](https://refcode.cc/privacy/): 未經您同意，本站自己不設定 Cookie；沒有帳號與表單，也不自行蒐集個人資料。以下說明儲存在您裝置上的資料、流量統計（含需要您同意的 Google Analytics），以及託管本站的服務。
 - [無障礙聲明](https://refcode.cc/accessibility/): 我們希望每個人都能使用本站。以下說明目標標準、只用鍵盤操作與以觸控探索（TalkBack、VoiceOver）的使用方式、目前已做的檢查、已知限制，以及本站無法提供個別協助的事實。
 
 ## 機器可讀資料

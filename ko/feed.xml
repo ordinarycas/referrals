@@ -3,13 +3,27 @@
   <title>Referrals Source: 최근 업데이트된 추천인 코드 정보</title>
   <subtitle>최근 확인되었거나 업데이트된 페이지를 모았습니다. 전체 목록은 sitemap.xml에서 확인할 수 있습니다.</subtitle>
   <id>https://refcode.cc/ko/feed.xml</id>
-  <updated>2026-10-28T00:00:00Z</updated>
+  <updated>2026-10-30T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://refcode.cc/ko/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://refcode.cc/ko/"/>
   <author>
     <name>Referrals Source</name>
     <uri>https://refcode.cc/ko/</uri>
   </author>
+  <entry>
+    <id>https://refcode.cc/ko/category/tech/</id>
+    <title>기술·소프트웨어 추천인 코드 모음</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/tech/"/>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <summary type="text">기술·소프트웨어 플랫폼 6개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/ko/privacy/</id>
+    <title>개인정보 처리방침</title>
+    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/privacy/"/>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <summary type="text">개인정보 처리방침: 동의 없이는 쿠키를 설정하지 않습니다. 저장 데이터, Cloudflare Web Analytics, 동의가 필요한 Google 애널리틱스, 호스팅을 설명합니다.</summary>
+  </entry>
   <entry>
     <id>https://refcode.cc/ko/about/</id>
     <title>소개 및 고지</title>
@@ -46,25 +60,11 @@
     <summary type="text">여행·교통 플랫폼 9개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
   </entry>
   <entry>
-    <id>https://refcode.cc/ko/privacy/</id>
-    <title>개인정보 처리방침</title>
-    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/privacy/"/>
-    <updated>2026-10-25T00:00:00Z</updated>
-    <summary type="text">개인정보 처리방침: 이 사이트는 쿠키를 직접 설정하지 않습니다. 기기에 저장되는 데이터, Cloudflare Web Analytics 측정 항목, 호스팅의 연결 데이터 처리를 설명합니다.</summary>
-  </entry>
-  <entry>
     <id>https://refcode.cc/ko/category/education/</id>
     <title>학습·교육 추천인 코드 모음</title>
     <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/education/"/>
     <updated>2026-10-24T00:00:00Z</updated>
     <summary type="text">학습·교육 플랫폼 8개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
-  </entry>
-  <entry>
-    <id>https://refcode.cc/ko/category/tech/</id>
-    <title>기술·소프트웨어 추천인 코드 모음</title>
-    <link rel="alternate" type="text/html" hreflang="ko" href="https://refcode.cc/ko/category/tech/"/>
-    <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">기술·소프트웨어 플랫폼 6개의 추천인 코드와 가입 링크를 모았습니다. 링크 도메인, 혜택, 이용 가능 지역, 업데이트 일자를 한 번에 비교할 수 있습니다.</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/ko/accessibility/</id>

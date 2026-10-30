@@ -3,13 +3,41 @@
   <title>Referrals Source: recently updated referral codes</title>
   <subtitle>Lists the pages verified or updated most recently. The full list is in sitemap.xml.</subtitle>
   <id>https://refcode.cc/en/feed.xml</id>
-  <updated>2026-10-28T00:00:00Z</updated>
+  <updated>2026-10-30T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://refcode.cc/en/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://refcode.cc/en/"/>
   <author>
     <name>Referrals Source</name>
     <uri>https://refcode.cc/en/</uri>
   </author>
+  <entry>
+    <id>https://refcode.cc/en/category/tech/</id>
+    <title>Tech and software referral codes</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/tech/"/>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <summary type="text">Tech and software: referral codes and sign-up links for 6 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/privacy/</id>
+    <title>Privacy policy</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/privacy/"/>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <summary type="text">Privacy policy: no cookies without consent, no accounts or forms. Stored data, Cloudflare Web Analytics, Google Analytics (with consent) and hosting.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/hosting-com/</id>
+    <title>Hosting.com referral link: plans, free domain, support</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/hosting-com/"/>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <summary type="text">Hosting.com guide: web hosting plans, free first-year domain, Singapore data center, 24/7/365 support, refund terms, referral reward. Updated Oct 30.</summary>
+  </entry>
+  <entry>
+    <id>https://refcode.cc/en/referral/pk-card/</id>
+    <title>PK 雙饗卡 (KFC, Pizza Hut) referral code K1AL1R and coupons</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pk-card/"/>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <summary type="text">PK 雙饗卡 referral code K1AL1R. Pizza Hut and KFC member app: per the share text, new users who enter referral code K1AL1R can… Updated October 30, 2026.</summary>
+  </entry>
   <entry>
     <id>https://refcode.cc/en/about/</id>
     <title>About &amp; disclosure</title>
@@ -67,13 +95,6 @@
     <summary type="text">Travel and mobility: referral codes and sign-up links for 9 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
   </entry>
   <entry>
-    <id>https://refcode.cc/en/privacy/</id>
-    <title>Privacy policy</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/privacy/"/>
-    <updated>2026-10-25T00:00:00Z</updated>
-    <summary type="text">The site sets no cookies itself and has no accounts or forms. Stored data, what Cloudflare Web Analytics measures, and how hosts handle connection data.</summary>
-  </entry>
-  <entry>
     <id>https://refcode.cc/en/referral/etherfi-cash/</id>
     <title>ether.fi Cash Card referral code 32c0a418: sign-up steps and link domain</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/etherfi-cash/"/>
@@ -100,13 +121,6 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/education/"/>
     <updated>2026-10-24T00:00:00Z</updated>
     <summary type="text">Learning: referral codes and sign-up links for 8 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
-  </entry>
-  <entry>
-    <id>https://refcode.cc/en/category/tech/</id>
-    <title>Tech and software referral codes</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/category/tech/"/>
-    <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">Tech and software: referral codes and sign-up links for 6 platforms, with link domain, offer, region and update date, to compare before you sign up.</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/en/referral/airbnb-experiences/</id>
@@ -268,13 +282,6 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pionex/"/>
     <updated>2026-10-24T00:00:00Z</updated>
     <summary type="text">Pionex referral code 0FfHG12tqCh: a Taiwan SFB warning says it is unregistered and may not serve or solicit in Taiwan. Check sources first. Updated Oct 24.</summary>
-  </entry>
-  <entry>
-    <id>https://refcode.cc/en/referral/pk-card/</id>
-    <title>PK 雙饗卡 referral code K1AL1R: sign-up link and guide</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://refcode.cc/en/referral/pk-card/"/>
-    <updated>2026-10-24T00:00:00Z</updated>
-    <summary type="text">PK 雙饗卡 referral code K1AL1R. Pizza Hut and KFC member app: per the share text, new users who enter referral code K1AL1R can… Updated October 24, 2026.</summary>
   </entry>
   <entry>
     <id>https://refcode.cc/en/referral/poya/</id>
